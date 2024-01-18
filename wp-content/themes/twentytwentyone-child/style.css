@@ -256,7 +256,7 @@ p,
 span,
 li,
 a {
-    color: var(--black);
+    color: var(--white);
 }
 
 strong {
